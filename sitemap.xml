@@ -2,17 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://moonlee6.github.io/categories/2022/</loc>
+    <lastmod>2022-08-04T02:38:42+08:00</lastmod>
+  </url><url>
     <loc>https://moonlee6.github.io/categories/</loc>
-    <lastmod>2022-08-03T00:05:24+08:00</lastmod>
+    <lastmod>2022-08-04T02:38:42+08:00</lastmod>
   </url><url>
     <loc>https://moonlee6.github.io/posts/</loc>
-    <lastmod>2022-08-03T00:05:24+08:00</lastmod>
+    <lastmod>2022-08-04T02:38:42+08:00</lastmod>
   </url><url>
     <loc>https://moonlee6.github.io/tags/</loc>
-    <lastmod>2022-08-03T00:05:24+08:00</lastmod>
+    <lastmod>2022-08-04T02:38:42+08:00</lastmod>
   </url><url>
     <loc>https://moonlee6.github.io/</loc>
-    <lastmod>2022-08-03T00:05:24+08:00</lastmod>
+    <lastmod>2022-08-04T02:38:42+08:00</lastmod>
+  </url><url>
+    <loc>https://moonlee6.github.io/tags/%E5%90%8C%E5%AD%A6%E8%81%9A%E4%BC%9A/</loc>
+    <lastmod>2022-08-04T02:38:42+08:00</lastmod>
+  </url><url>
+    <loc>https://moonlee6.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2022-08-04T02:38:42+08:00</lastmod>
+  </url><url>
+    <loc>https://moonlee6.github.io/posts/2022_8_3/</loc>
+    <lastmod>2022-08-04T02:38:42+08:00</lastmod>
   </url><url>
     <loc>https://moonlee6.github.io/categories/%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2022-08-02T22:46:04+08:00</lastmod>
@@ -24,16 +36,13 @@
     <lastmod>2022-08-02T22:44:35+08:00</lastmod>
   </url><url>
     <loc>https://moonlee6.github.io/tags/%E5%AE%B6%E5%BA%AD/</loc>
-    <lastmod>2022-08-03T00:05:24+08:00</lastmod>
+    <lastmod>2022-08-04T01:14:15+08:00</lastmod>
   </url><url>
     <loc>https://moonlee6.github.io/tags/%E6%95%88%E7%8E%87/</loc>
-    <lastmod>2022-08-03T00:05:24+08:00</lastmod>
-  </url><url>
-    <loc>https://moonlee6.github.io/categories/%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2022-08-03T00:05:24+08:00</lastmod>
+    <lastmod>2022-08-04T01:14:15+08:00</lastmod>
   </url><url>
     <loc>https://moonlee6.github.io/posts/2022_8_2/</loc>
-    <lastmod>2022-08-03T00:05:24+08:00</lastmod>
+    <lastmod>2022-08-04T01:14:15+08:00</lastmod>
   </url><url>
     <loc>https://moonlee6.github.io/posts/hello-world/</loc>
     <lastmod>2022-07-31T23:22:20+08:00</lastmod>
